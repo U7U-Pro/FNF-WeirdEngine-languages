@@ -1,0 +1,141 @@
+{
+	"language-name": "Portuguese",
+	
+	"_commentary": "_commentary arent useful for the game, it is just a guide",
+	
+	"_commentary1": "Story Mode Menu",
+	
+	"weekScore": "PONTUAÇÃO DE SEMANA:",
+	
+	"_commentary2": "Freeplay Menu",
+	
+	"freeplayInfo1": "Aperte ESPAÇO para ouvir a musica.",
+	"freeplayInfo2": "Aperte CTRL para abrir os trocadores de jogabilidade.",
+	"freeplayInfo3": "Aperte RESET para Resetar sua Pontuação e Precisão.",
+	"scoreText": "RECORDE PESSOAL:",
+	
+	"_commentary3": "Gameplay Changers in Freeplay/Story Mode menus",
+	
+	"scrolltype": "Tipo de Rolagem",
+	"scrollspeed": "Velocidade de Rolagem",
+	"healthgain": "Multiplicador de Ganho de Vida",
+	"healthloss": "Multiplicador de Perda de Vida",
+	"instakill": "Morte Instantânea no Erro",
+	"practice": "Modo Prática",
+	"botplay": "Jogo de Robô",
+	
+	"_commentary4": "Pause Menu",
+	
+	"resume": "Resumir",
+	"restart": "Recomeçar Música",
+	"changeDiff": "Mudar Dificuldade",
+	"exit2Menu": "Sair para menu",
+	"leaveChart": "Sair de Modo de Mapear",
+	"skipTime": "Pular Tempo",
+	"endSong": "Finalizar Música",
+	"toggPract": "Alternar Modo Prática",
+	"toggBot": "Alternar Jogo de Robô",
+	
+	"_commentary5": "Option Menu",
+	
+	"language": "Idioma",
+	"noteColors": "Cor das Notas",
+	"controls": "Controles",
+	"delayCombo": "Ajustar Atraso e Combo",
+	"graphics": "Gráficos",
+	"visualsUI": "Visuáis e IU",
+	"gameplay": "Jogabilidade",
+	
+	"_commentary6": "Note colors Menu",
+	
+	"noteColorsSettings": "Tom    Saturação  Brilho",
+	
+	"_commentary7": "Controls Menu",
+	
+	"defaultKey": "Resetar para Teclas Padrão",
+	"notes": "NOTAS",
+	"key": "TECLA",
+	"keys": "TECLAS",
+	"ui": "IU",
+	"volume": "Volume",
+	"debug": "DEBUG",
+	"figure1": "Tente descobrir",
+	"figure2": "esses.",
+	"up":"Acima",
+	"down":"Abaixo",
+	"left":"Esquerda",
+	"right":"Direita",
+	"center":"Centro",
+	"reset": "Reset",
+	"accept": "Aceitar",
+	"pause": "Pausa",
+	"mute": "Mudo",
+	
+	"_commentary8": "Global things",
+	
+	"back": "Atrás",
+	"none": "Nenhum",
+	
+	"_commentary9": "Controls name",
+	
+	"control.controlBckSpc":"BckSpc",
+	"controlSpace":"Espaço",
+	"controlCaps":"Caps",
+	"controlPrtScrn":"PrtScrn",
+	"controlEnter":"Enter",
+	"controlEscape":"Esc",
+	
+	"_commentary10": "Graphics settings menu",
+	
+	"lowQuality": "Qualidade Baixa",
+  "lowQualityDesc": "Se estiver ativado, desativa alguns detalhes de fundo,\nencurta tempos de carregamento e melhora o desempenho.",
+	"globalAntialiasing": "Anti-Aliasação",
+  "globalAntialiasingDesc": "Se estiver desativado, disativa anti-aliasação, melhora o desempenho\nau custo de visuais mais nítidos.",
+	"framerate": "Taxa de frames",
+	"framerateDesc": "Não acho que tenho que explicar.",
+	"onUnfocuPause": "Desfocar Pause",
+	"onUnfocuPauseDesc": "O jogo pausa quando você muda para outra janela.",
+	
+	"_commentary11": "HUD settings menu",
+	
+	"noteSplashes": "Splash das Notas",
+	"noteSplashesDesc": "Se estiver desativados, atingir uma nota \"Sick!\" não mostrara particulas.",
+	"hideHUD": "Hide HUD",
+	"hideHUDDesc": "If checked, hides most HUD elements.",
+	"timeBar": "Time Bar:",
+	"timeBarDesc": "What should the Time Bar display?",
+	"timeBarOpt": ["Time Left", "Time Elapsed", "Song Name", "Disabled"],
+	"flashingLights": "Flashing Lights",
+	"flashingLightsDesc": "Uncheck this if you're sensitive to flashing lights!",
+	"cameraZoom": "Camera Zooms",
+	"cameraZoomDesc": "If unchecked, the camera won't zoom in on a beat hit.",
+	"textZoom": "Score Text Zoom on Hit",
+	"textZoomDesc": "If unchecked, disables the Score text zooming\neverytime you hit a note.",
+	"HPbarAlpha": "Health Bar Transparency",
+	"HPbarAlphaDesc": "How much transparent should the health bar and icons be.",
+	"showFPS": "FPS Counter",
+	"showFPSDesc": "If unchecked, hides FPS Counter.",
+	"pauseMusic": "Pause Screen Song:",
+	"pauseMusicDesc": "What song do you prefer for the Pause Screen?",
+	
+	"_commentary12": "Gameplay settings menu",
+	
+	"downScroll": "Downscroll",
+	"downScrollDesc": "If checked, notes go Down instead of Up, simple enough.",
+	"middleScroll": "Middlescroll",
+	"middleScrollDesc": "If checked, your notes get centered.",
+	"ghostTapping": "Ghost Tapping",
+	"ghostTappingDesc": "If checked, you won't get misses from pressing keys\nwhile there are no notes able to be hit.",
+	"noAntimash": "No Antimash",
+	"noAntimashDesc": "If checked, Antimash will be disabled.",
+	"noReset": "Disable Reset Button",
+	"noResetDesc": "If checked, pressing Reset won't do anything.",
+	"hitsoundVolume": "Hitsound Volume",
+	"hitsoundVolumeDesc": "Funny notes does \"Tick!\" when you hit them.",
+	"ratingOffset": "Rating Offset",
+	"ratingOffsetDesc": "Changes how late/early you have to hit for a \"Sick!\"\nHigher values mean you have to hit later.",
+	"hitWindow": "@[rating] Hit Window",
+	"hitWindowDesc": "Changes the amount of time you have\nfor hitting a \"@[rating]\" in milliseconds.",
+	"safeFrames": "Safe Frames",
+	"safeFramesDesc": "Changes how many frames you have for\nhitting a note earlier or late."
+}
