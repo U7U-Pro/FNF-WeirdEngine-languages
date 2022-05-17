@@ -1,5 +1,5 @@
 {
-	"language-name": "Portuguese",
+	"language-name": "Português",
 	
 	"_commentary": "_commentary arent useful for the game, it is just a guide",
 	
@@ -99,7 +99,7 @@
 	"_commentary11": "HUD settings menu",
 	
 	"noteSplashes": "Splash das Notas",
-	"noteSplashesDesc": "Se estiver desmarcado, atingir uma nota \"Sick!\" não mostrara particulas.",
+	"noteSplashesDesc": "Se estiver desmarcado, atingir uma nota \"Sick!\" não mostrará partículas.",
 	"hideHUD": "Esconder HUD",
 	"hideHUDDesc": "Se marcado, esconde a maioría dos elementos do HUD.",
 	"timeBar": "Barra de Tempo:",
@@ -108,9 +108,9 @@
 	"flashingLights": "Luzes Piscantes",
 	"flashingLightsDesc": "Desmarque isso se você tem sensibilidade a luzes piscantes.",
 	"cameraZoom": "Zoom da Camera",
-	"cameraZoomDesc": "Se estiver desmarcado, a camera não fará zoom in na batida.",
+	"cameraZoomDesc": "Se estiver desmarcado, a camera não fará zoom-in na batida.",
 	"textZoom": "Zoom do Texto de Pontuação em Acerto",
-	"textZoomDesc": "Se estiver desmarcado, desativa the Score text zooming\neverytime you hit a note.",
+	"textZoomDesc": "Se estiver desmarcado, desativa o zoom do text de Puntuação \ncada vez que você acerta uma nota.",
 	"HPbarAlpha": "Transparência da Barra de HP",
 	"HPbarAlphaDesc": "Quanto transparentes devem ser a Barra de HP e os ícones.",
 	"showFPS": "Contador de FPS",
